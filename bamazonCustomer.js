@@ -21,7 +21,7 @@ var userChoice = "";
 // Create initial connection for the server.
 var connection = mysql.createConnection({
     host: "localhost",
-    post: 8080,
+    port: 8080,
     user: "root",
     password: "",
     database: "bamazon"
