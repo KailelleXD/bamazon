@@ -83,7 +83,7 @@ function orderPrompt() {
 
             // Call the function that checks the quantity in the database and orders the products.
             orderProducts();
-        })
+        });
 } /// orderPrompt();
 
 // Function that checks the quantity of the chosen products in the database and then orders the products and adjusts the appropriate quantities.
