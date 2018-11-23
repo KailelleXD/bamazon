@@ -21,7 +21,7 @@ var userChoice = "";
 // Create initial connection for the server.
 var connection = mysql.createConnection({
     host: "localhost",
-    port: 8080,
+    post: 8080,
     user: "root",
     password: "",
     database: "bamazon"
@@ -83,7 +83,7 @@ function orderPrompt() {
 
             // Call the function that checks the quantity in the database and orders the products.
             orderProducts();
-        })
+        });
 } /// orderPrompt();
 
 // Function that checks the quantity of the chosen products in the database and then orders the products and adjusts the appropriate quantities.
