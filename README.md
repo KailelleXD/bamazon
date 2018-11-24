@@ -8,6 +8,8 @@ I am building this application to help cement my understanding of NodeJS and MyS
 
 ## Screenshots / Video
 
+[NodeJS BamazonCustomer and BamazonManager CLI App](https://youtu.be/WoPx8Px-DkQ)
+
 * bamazonCustomer.js functionality:
 ![bamazon-01.PNG](https://images.zenhubusercontent.com/5bb4428d58d3b92dfedf3084/51c765a3-e51c-4778-9687-7d47f8f44352)
 ![bamazon-02.PNG](https://images.zenhubusercontent.com/5bb4428d58d3b92dfedf3084/4e0b2f03-3966-4c1a-8c74-27107707049f)
